@@ -1,0 +1,47 @@
+.esquema{
+  display: flex!important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px!important;
+    gap: 40px;
+}
+
+.central{
+  display: flex!important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px!important;
+    gap: 40px;
+}
+
+col .centro{
+  max-width: 600px!important;
+  margin:0 auto;
+}
+
+.me-auto {
+  margin-right: 0!important;
+}
+
+.linkend{
+  color: #ffffff!important;
+  font-weight: 500;
+  width: 100px!important;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.card{
+  width: 24rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.activo{
+  color: #ffffff;
+  font-weight: 500;
+  text-decoration: none!important;
+  width: 100px!important;
+}
